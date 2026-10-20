@@ -1,0 +1,27 @@
+h2{
+    color: blueviolet;
+}
+
+.container{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+
+}
+    .blue{
+        color: #0000FF;
+}
+a{
+    color: #ff0000;
+
+}
+
+a:hover{
+        color: aqua;
+        font: -20px;
+}
+.img{
+    width: 300px;
+    border-radius: 20px;
+}
